@@ -12,7 +12,7 @@
 - Update/Edit
 - Delete
 
-`Add your database configuration to dbconfig.php`
+`Add your database configuration to a file called dbconfig.php and save it in the db directory`
 
 ![Preview](https://github.com/matthew-via-music/codesearch/blob/main/preview/login.php)
 ![Preview](https://github.com/matthew-via-music/codesearch/blob/main/preview/register.php)
