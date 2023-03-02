@@ -1,4 +1,4 @@
-## LAMP/CRUD Stack with Authentication/Authorisation and Search.
+## LAMP Stack CRUD with Authentication/Authorisation and Search
 
 #### Stack
 - PHP
