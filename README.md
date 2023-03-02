@@ -1,7 +1,9 @@
-# LAMP/CRUD Stack with Authentication/Authorisation
+# LAMP/CRUD Stack with Authentication/Authorisation and Search.
 
-### PHP
-### MYSQL
+#### Stack
+- PHP
+- MYSQL
+- JS
 
 ### Functionality
 
@@ -11,6 +13,7 @@
 - Read
 - Update/Edit
 - Delete
+- Search
 
 `Add your database configuration to a file called dbconfig.php and save it in the db directory`
 
